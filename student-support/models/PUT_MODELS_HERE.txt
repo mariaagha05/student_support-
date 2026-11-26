@@ -1,0 +1,6 @@
+Is folder me Colab se download ki hui ye 4 files rakhein (notebook ke aakhri cell se project01_outputs.zip milti hai):
+  supervised.joblib
+  clusters.joblib
+  images.keras
+  group_descriptions.json
+Phir ye PUT_MODELS_HERE.txt file hata sakte hain.
